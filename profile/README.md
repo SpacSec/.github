@@ -1,0 +1,10 @@
+## SpacSec
+### International Conference on Cyber Warfare, Security & Space Research
+
+SpacSec’21 is an opportunity for researchers, educators, professionals, practitioners, scientists, satellite and space researchers, space agency executives, geophysicists, spacecraft ground control operators, agencies, Earth science researchers, geologists, spacecraft and satellite engineers, satellite launch vehicle manufacturers/ operators, marshals and admirals in army, artists and students around the world who are involved in the study, management, development and implementation of systems and concepts to combat information warfare and all aspects of Space technology and research to come together and exchange ideas.
+
+There are several strong strands of research developing in the cyber warfare, cybersecurity, and space research area including the understanding of threats and risks to systems, the development of strong innovative culture, as well as incident detection and post-incident investigation. New threats brought about by social networking and cloud computing are gaining interest from the research community and the conference is tackling these issues.
+
+It will provide a great opportunity for students and faculties worldwide to interact and share ideas with the top-notch in the field face to face. This knowledge sharing may inspire and thrill many young minds and help us bring collaborations and global partners to work together. This will enable us to solve challenging problems in our society so that we may contribute to our world. The whole idea of the forum is to exchange thoughts and ideas, transform those in real-time to solve the problems. The conference will also create awareness in students about the importance of scientific research in related fields and synchronizing with the product market.
+
+The whole idea of the forum is to exchange thoughts and ideas, transform those in real-time to solve the problems. The conference will also create awareness in students about the importance of scientific research in related fields and synchronizing with the product market.
